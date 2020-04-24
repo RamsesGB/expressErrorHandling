@@ -1,0 +1,27 @@
+{
+  "name": "expressErrorHandling",
+  "version": "1.0.0",
+  "description": "Writing some error handling middleware using node/express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamsesGB/expressErrorHandling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamsesGB/expressErrorHandling/issues"
+  },
+  "homepage": "https://github.com/RamsesGB/expressErrorHandling#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
